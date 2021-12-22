@@ -1,0 +1,39 @@
+button {
+    width: 350px;
+    color: black;
+    background-color: blueviolet;
+    height: auto;
+}
+.chandu{
+    text-align: center;
+    position:absolute ;
+    left: 500px;
+    top: 30px;
+}
+.teja{
+    text-align: center;
+    position: absolute;
+    left: 1000px;
+    top: 30px;
+}
+.sujay{
+    text-align: center;
+    position: absolute;
+    left: 500px;
+    top: 300px;
+}
+.sandhya{
+    text-align: center;
+    position: absolute;
+    left: 1000px;
+    top: 300px;
+
+}
+.rishik{
+    position: absolute;
+    top: 300px;
+}
+.maddy{
+    position: absolute;
+    top: 30px;
+}
